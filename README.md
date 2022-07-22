@@ -1,4 +1,8 @@
-### Oi! Eu sou Rodrigo Oliveira 🖖
+## Oi! Eu sou Rodrigo Oliveira 🖖
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_oliver15/)
+
+### Tecnologias que eu uso e estudo no meu dia 👩🏾‍💻
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -16,8 +20,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_oliver15/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexoliveira&show_icons=true&theme=blue-green)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rexoliveira&repo=v3_projeto_um_aula_xampp&langs_count=10&hide=HTML5,CSS3&show_icons=true&theme=gotham)](https://github.com/rexoliveira/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rexoliveira&repo=v3_projeto_um_aula_xampp&langs_count=10&hide=HTML5,CSS3&show_icons=true&theme=gotham&layout=compact)](https://github.com/rexoliveira/github-readme-stats)
+
+### Estudo muito sobre tecnologias. A programação está mudando minha vida, em um momento de mudança de carreira.
+
+## E-mail acadêmico:
+
+📧 rodrigooliveira.cm015@academico.ifsul.com.br
