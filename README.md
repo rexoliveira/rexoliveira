@@ -27,9 +27,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rexoliveira&repo=v3_projeto_um_aula_xampp&langs_count=10&hide=HTML5,CSS3&show_icons=true&theme=gotham&layout=compact&custom_title=ProjetoDeAula_v3_smartcamaqua&range=last_7_days)](https://github.com/rexoliveira/github-readme-stats)
 
-Estudo muito sobre tecnologias.<br/>
-A programação está mudando minha vida,<br/>
-em um momento de troca de carreira.
+<p>Estudo muito sobre tecnologias. A programação<br/>
+está mudando minha vida, em um momento de <br/>
+troca de carreira.<p>
+
 
 ## E-mail acadêmico:
 
