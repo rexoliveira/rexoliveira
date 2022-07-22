@@ -23,11 +23,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexoliveira&show_icons=true&theme=blue-green)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rexoliveira&repo=v3_projeto_um_aula_xampp&langs_count=10&show_icons=true&theme=gotham&range=last_7_days)](https://github.com/rexoliveira/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rexoliveira&repo=v3_projeto_um_aula_xampp&langs_count=10&hide_title=true&show_icons=true&theme=gotham&range=last_7_days)](https://github.com/rexoliveira/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rexoliveira&repo=v3_projeto_um_aula_xampp&langs_count=10&hide=HTML5,CSS3&show_icons=true&theme=gotham&layout=compact&custom_title=ProjetoDeAula_v3_smartcamaqua&range=last_7_days)](https://github.com/rexoliveira/github-readme-stats)
 
-### Estudo muito sobre tecnologias. A programação está mudando minha vida, em um momento de mudança de carreira.
+### Estudo muito sobre tecnologias. A programação está mudando minha vida, em um momento de troca de carreira.
 
 ## E-mail acadêmico:
 
